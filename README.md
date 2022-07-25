@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Joshua</h1>
-<h3 align="center">A passionate software Engineer from India</h3>
+<h3 align="center">A passionate software Engineer from Uganda</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=odaga" alt="odaga" /></a> </p>
+
 
 - 🌱 I’m currently learning **Next.js**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 💬 Ask me about **Flutter,Java and Node.js**
+- 💬 Ask me about **Flutter, Java and Node.js**
 
 - 📫 How to reach me **ojoshuaj@gmail.com**
 
@@ -24,4 +24,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=odaga&show_icons=true&locale=en" alt="odaga" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=odaga&" alt="odaga" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=odaga" alt="odaga" /></a> </p>
 
